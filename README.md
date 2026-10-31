@@ -8,6 +8,9 @@ An interactive quarterly sales dashboard was developed using Excel Pivot Tables,
 
 The dashboard helps understand customer segmentation, identify top-performing states, analyze order statuses, and compare different payment methods.
 
+##Dataset Used
+- <a href="https://github.com/saritasiwal9540-lang/Amazon-Sales-Analysis-Excel-Dashboard/blob/main/Amazon%20Sale.xlsx">Dataset</a>
+
 ## Project Objectives
 
 - Analyze sales distribution between male and female customers.

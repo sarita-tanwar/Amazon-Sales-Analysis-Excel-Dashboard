@@ -92,6 +92,8 @@ The dashboard highlights the following observations:
 - Payment-method analysis provides an overview of customer payment preferences.
 - Interactive filters allow users to explore sales performance across different states, genders, and payment methods.
 
+- dashboard interaction <a heref="https://github.com/saritasiwal9540-lang/Amazon-Sales-Analysis-Excel-Dashboard/blob/main/Dashboard.png"<view dashboard</a>
+
 *Note: These percentages represent the values displayed in the dashboard.*
 
 ## Key Skills Demonstrated
@@ -117,6 +119,10 @@ This project demonstrates the practical application of Excel in transforming raw
 
 - `Amazon_Sales_Analysis.xlsx` – Excel workbook containing the dataset, Pivot Tables, analysis, and interactive dashboard.
 - `Dashboard.png` – Screenshot of the completed Amazon Quarterly Sales Report dashboard.
+
+## Dashboard Image
+<img width="1274" height="547" alt="Dashboard png" src="https://github.com/user-attachments/assets/247862c7-76d2-4d08-b351-f6cb19938097" />
+
 
 ## Author
 
